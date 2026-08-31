@@ -59,9 +59,6 @@ The Random Forest model achieved the following results on the test dataset:
 ## 👩‍💻 Author
 
 **Varsha A.**
-
-Aspiring Data Scientist & Machine Learning Engineer
-
-* GitHub: [Varshh-hub](https://github.com/Varshh-hub)
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
 
 ---
